@@ -1,2 +1,2 @@
 # Cyber-Physical-Systems
-Demonstration of the mini-lab component activities conducted for the course of Cyber-Physical Systems: Design, Modeling and Simulation (19CCE312).
+Demonstration of the mini-lab component activities conducted for the course of Cyber-Physical Systems: Design, Modeling and Simulation (19CCE312) • To mould fresh electronics engineers by enhancing their knowledge and skills in various hardware and software design aspects of Cyber-Physical Systems • To develop an exposition of the challenges in implementing a cyber-physical system from a computational perspective • To expose the student to real-world problems in this domain and provide a walk through the design and validation problems for such systems
